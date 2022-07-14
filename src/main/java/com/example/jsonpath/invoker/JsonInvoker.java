@@ -20,19 +20,19 @@ public class JsonInvoker {
 
     public JsonData getData() {
         List<D> data = new ArrayList<>();
-        D d = new D();
+        D one = new D();
 
-        Result r = new Result("100", "1028320610", "22169410", "00000402000010824", 1);
+        Result result = new Result("100", "1028320610", "22169410", "00000402000010824", 1);
 
 
-        d.setResults(r);
+        one.setResults(result);
 
-        D d1 = new D();
+        D two = new D();
         Result r1 = new Result("100", "1028320610", "22169410", "00000402000010935", 1);
-        d1.setResults(r1);
+        two.setResults(r1);
 
-        data.add(d);
-        data.add(d1);
+        data.add(one);
+        data.add(two);
         jsonData.setD(data);
 
         return jsonData;

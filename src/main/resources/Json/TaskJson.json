@@ -1,0 +1,179 @@
+{
+	"d": {
+		"results": [
+			{
+				
+				"CLIENT": "100",
+				"Business_Partner": "1028320610",
+				"Vehicle_ID": "22169410",
+				"Policy_No": "00000402000010824",
+				"Dummy": 1
+			},
+			{
+				"__metadata": {
+					"type": "oData.Vehicletest.VehicletestType",
+					"uri": "http://10.12.205.75:8000/oData/Vehicletest.xsodata/Vehicletest(Business_Partner='1028320610',Vehicle_ID='22169410')"
+				},
+				"CLIENT": "100",
+				"Business_Partner": "1028320610",
+				"Vehicle_ID": "22169410",
+				"Policy_No": "00000402000010935",
+				"Dummy": 1
+			},
+			{
+				"__metadata": {
+					"type": "oData.Vehicletest.VehicletestType",
+					"uri": "http://10.12.205.75:8000/oData/Vehicletest.xsodata/Vehicletest(Business_Partner='1028320610',Vehicle_ID='22169410')"
+				},
+				"CLIENT": "100",
+				"Business_Partner": "1028320610",
+				"Vehicle_ID": "22169410",
+				"Policy_No": "00000402000010936",
+				"Dummy": 1
+			},
+			{
+				"__metadata": {
+					"type": "oData.Vehicletest.VehicletestType",
+					"uri": "http://10.12.205.75:8000/oData/Vehicletest.xsodata/Vehicletest(Business_Partner='1028320610',Vehicle_ID='22169410')"
+				},
+				"CLIENT": "100",
+				"Business_Partner": "1028320610",
+				"Vehicle_ID": "22169410",
+				"Policy_No": "00000402000010946",
+				"Dummy": 1
+			},
+			{
+				"__metadata": {
+					"type": "oData.Vehicletest.VehicletestType",
+					"uri": "http://10.12.205.75:8000/oData/Vehicletest.xsodata/Vehicletest(Business_Partner='1028320610',Vehicle_ID='22169410')"
+				},
+				"CLIENT": "100",
+				"Business_Partner": "1028320610",
+				"Vehicle_ID": "22169410",
+				"Policy_No": "00000402000010947",
+				"Dummy": 1
+			},
+			{
+				"__metadata": {
+					"type": "oData.Vehicletest.VehicletestType",
+					"uri": "http://10.12.205.75:8000/oData/Vehicletest.xsodata/Vehicletest(Business_Partner='1028320610',Vehicle_ID='22169410')"
+				},
+				"CLIENT": "100",
+				"Business_Partner": "1028320610",
+				"Vehicle_ID": "22169410",
+				"Policy_No": "00000402000010969",
+				"Dummy": 1
+			},
+			{
+				"__metadata": {
+					"type": "oData.Vehicletest.VehicletestType",
+					"uri": "http://10.12.205.75:8000/oData/Vehicletest.xsodata/Vehicletest(Business_Partner='1028320610',Vehicle_ID='22169410')"
+				},
+				"CLIENT": "100",
+				"Business_Partner": "1028320610",
+				"Vehicle_ID": "22169410",
+				"Policy_No": "00000402000010970",
+				"Dummy": 1
+			},
+			{
+				"__metadata": {
+					"type": "oData.Vehicletest.VehicletestType",
+					"uri": "http://10.12.205.75:8000/oData/Vehicletest.xsodata/Vehicletest(Business_Partner='1028320610',Vehicle_ID='22169410')"
+				},
+				"CLIENT": "100",
+				"Business_Partner": "1028320610",
+				"Vehicle_ID": "22169410",
+				"Policy_No": "00000402000011014",
+				"Dummy": 1
+			},
+			{
+				"__metadata": {
+					"type": "oData.Vehicletest.VehicletestType",
+					"uri": "http://10.12.205.75:8000/oData/Vehicletest.xsodata/Vehicletest(Business_Partner='1028320610',Vehicle_ID='22169410')"
+				},
+				"CLIENT": "100",
+				"Business_Partner": "1028320610",
+				"Vehicle_ID": "22169410",
+				"Policy_No": "00000402000011015",
+				"Dummy": 1
+			},
+			{
+				"__metadata": {
+					"type": "oData.Vehicletest.VehicletestType",
+					"uri": "http://10.12.205.75:8000/oData/Vehicletest.xsodata/Vehicletest(Business_Partner='1028320610',Vehicle_ID='22169410')"
+				},
+				"CLIENT": "100",
+				"Business_Partner": "1028320610",
+				"Vehicle_ID": "22169410",
+				"Policy_No": "00000402000011025",
+				"Dummy": 1
+			},
+			{
+				"__metadata": {
+					"type": "oData.Vehicletest.VehicletestType",
+					"uri": "http://10.12.205.75:8000/oData/Vehicletest.xsodata/Vehicletest(Business_Partner='1028320610',Vehicle_ID='22169410')"
+				},
+				"CLIENT": "100",
+				"Business_Partner": "1028320610",
+				"Vehicle_ID": "22169410",
+				"Policy_No": "00000402000011029",
+				"Dummy": 1
+			},
+			{
+				"__metadata": {
+					"type": "oData.Vehicletest.VehicletestType",
+					"uri": "http://10.12.205.75:8000/oData/Vehicletest.xsodata/Vehicletest(Business_Partner='1028320610',Vehicle_ID='22169410')"
+				},
+				"CLIENT": "100",
+				"Business_Partner": "1028320610",
+				"Vehicle_ID": "22169410",
+				"Policy_No": "00000402000011030",
+				"Dummy": 1
+			},
+			{
+				"__metadata": {
+					"type": "oData.Vehicletest.VehicletestType",
+					"uri": "http://10.12.205.75:8000/oData/Vehicletest.xsodata/Vehicletest(Business_Partner='1028320610',Vehicle_ID='22169410')"
+				},
+				"CLIENT": "100",
+				"Business_Partner": "1028320610",
+				"Vehicle_ID": "22169410",
+				"Policy_No": "00000402000011091",
+				"Dummy": 1
+			},
+			{
+				"__metadata": {
+					"type": "oData.Vehicletest.VehicletestType",
+					"uri": "http://10.12.205.75:8000/oData/Vehicletest.xsodata/Vehicletest(Business_Partner='1028320610',Vehicle_ID='22169410')"
+				},
+				"CLIENT": "100",
+				"Business_Partner": "1028320610",
+				"Vehicle_ID": "22169410",
+				"Policy_No": "00000402000011094",
+				"Dummy": 1
+			},
+			{
+				"__metadata": {
+					"type": "oData.Vehicletest.VehicletestType",
+					"uri": "http://10.12.205.75:8000/oData/Vehicletest.xsodata/Vehicletest(Business_Partner='1028320610',Vehicle_ID='22169410')"
+				},
+				"CLIENT": "100",
+				"Business_Partner": "1028320610",
+				"Vehicle_ID": "22169410",
+				"Policy_No": "00000402000011095",
+				"Dummy": 1
+			},
+			{
+				"__metadata": {
+					"type": "oData.Vehicletest.VehicletestType",
+					"uri": "http://10.12.205.75:8000/oData/Vehicletest.xsodata/Vehicletest(Business_Partner='1028320610',Vehicle_ID='22169410')"
+				},
+				"CLIENT": "100",
+				"Business_Partner": "1028320610",
+				"Vehicle_ID": "22169410",
+				"Policy_No": "00000402000011105",
+				"Dummy": 1
+			}
+		]
+	}
+}

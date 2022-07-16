@@ -1,0 +1,3 @@
+spring:
+  datasource:
+    src/main/resources/Json/TaskJson.json
